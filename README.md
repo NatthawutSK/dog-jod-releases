@@ -1,6 +1,14 @@
+<div align="center">
+
 # ด็อกจด 🐶
 
 สลิปโอนเงินเข้าโฟลเดอร์ในมือถือ → แอปดักจับแล้วอ่านข้อมูลด้วย Gemini → จดลง Google Sheets ให้เอง (Android เท่านั้น)
+
+[![Download APK](https://img.shields.io/github/v/release/NatthawutSK/dog-jod-releases?label=Download%20APK&style=for-the-badge&logo=android&logoColor=white&color=3DDC84)](https://github.com/NatthawutSK/dog-jod-releases/releases/latest)
+
+https://github.com/user-attachments/assets/8b13c764-b999-4e64-9877-34a25b5bf2ac
+
+</div>
 
 ## ติดตั้ง
 
